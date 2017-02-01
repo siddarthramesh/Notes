@@ -54,3 +54,24 @@
 		* addition and substraction of harmmoics create tone color
 	* Harmonic Spectrum
 4. Duration (Rythm)
+
+## Week 2
+
+* 1900
+	* atonal (1911 onward)
+	* 12-tone
+	* Varese - Percussions (1930)
+* 1948
+	* Musiuqe Concrete
+		* done without tape
+		* tape in effect in 1950
+		* technology == creative explosion of new sound
+* Stockhausen (1956)
+	* French musician
+	* combined `found found` 
+	* took idea from German about using electronic
+	* Took human voices and altered it and started a new form of music
+* Loudness
+	* Attack -> Decay -> Sustain -> Release
+	* known as the volume `envelope`
+	
