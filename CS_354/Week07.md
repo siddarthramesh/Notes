@@ -43,13 +43,15 @@
   * NO! `E = C/B`
   * S = 1;
 * Why isn't it possible for `E > C/B`
+
 	```
 	E = S*B*E
 	E > SBE/B; S=1
 	E > BE/B
 	E > E
 	```
-*Appropriate only for small caches
+
+	*Appropriate only for small caches
 
 ## Writing to a cache
 * **Write Hits**
