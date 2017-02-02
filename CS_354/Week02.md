@@ -15,8 +15,8 @@ struct Date {
 ```
 
 * Takes 12 bytes of data, 4 bytes for each int
-* start of Date object is address "int month"
-* `convention"` that user define types are capitalize
+* start of Date object is address `int month`
+* *convention* that user define types are capitalize
 
 ```
 struct Date today;
@@ -93,7 +93,7 @@ void printDate(Date date) {}
 	
 # STRINGS
 * what?
-	* Are a sequence of chars whose end is marked with a null char "\0"
+	* Are a sequence of chars whose end is marked with a null char `"\0"`
 	* Represented using an array of chars which needs to be the strings length +1 for 0
 * how?
 	`char str[11] = "cs 354";`
