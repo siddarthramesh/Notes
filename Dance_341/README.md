@@ -1,6 +1,7 @@
 # Dance 341 - Intro to Sound Technology
 * [Week 1](#week-1)
 * [Week 2](#week-2)
+* [Week 3](#week-3)
 
 ----
 
@@ -75,3 +76,54 @@
 	* Attack -> Decay -> Sustain -> Release
 	* known as the volume `envelope`
 	
+## Week 3
+
+* Analog audio
+	* `voltage` as an anlogy for `sound`
+* Digital audio
+	* `binary` as an anlogy for `sound`
+* Microphones
+	* transducers
+		* takes one form as energy and tranfers it to another
+	* Microphone takes sound pressure and turns into voltage
+	* Types 
+		* Shure SM57
+			* Dynamic principle
+			* Moving coil
+			* **+** Can be amplified
+			* **+** Tape it
+			* **+** Cheap 
+			* **+** Rugged
+			* **-** No target for high frequency
+			* **-** Not great transient response
+				* Real quick change of volume
+		* Condenser
+			* **-** Pricey
+			* **-** fragile
+			* usually in studio
+			* 2 magnetic plates
+			* **+** great high frequency
+			* **+** great transient response
+			* **-** Need phantom power (48V)
+				* Need batteries if portable
+	* Pickup pattern (page 87)
+		* Cardioid
+			* Uni-directional
+			* Single direction
+		* Omni
+			* omni-directional
+			* 360 range
+* Cable connectors
+	* 1/4 inch
+		* guitar plug
+	* XLR
+	* 3.5 mm
+		* 1/8 inch
+	* RCA
+		* phono
+* Block Diagram
+	* layout of mixers and wires of a setup
+* DAW
+	* Can take mic input througha ADC
+	* Once digital and on RAM can edit the datas
+	* Uses a DAC to get to speakers
