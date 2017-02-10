@@ -1,16 +1,34 @@
+Filename format: `week_<weekNumber>_<weekday>_<photoNumber.jpg`
+
+> **NOTE:** Friday is noted as 'z' for ordering purposes
+
 # Table of Content for photos
 
 * Week 1 - Wendesday
+  * linear system
+	* 3 types of solutions
 * Week 1 - Friday
+  * summation
+  * transpose
 * Week 2 - Monday
+  * matrix multiplication
+	* algebraic properties
 * Week 2 - Wendesday
+  * matrix multiplcation
+	* properties and proofs
 * Week 2 - Friday
+  * special matrix types
+  * transpose properties
 * Week 3 - Monday
+  * partitioned matrix
+  * matrix inverse
 * Week 3 - Wendesday
-  * Secetion 1.6
-	* Martix Transformations, Scaling, Rotation
+  * Martix Transformations, Scaling, Rotation
 * Week 3 - Friday
+  * Echelon Matrix
+  * row (column) operations
 * Week 4 - Monday
+  * augmented matrix
 * Week 4 - Wendesday
 * Week 4 - Friday
 * Week 5 - Monday
