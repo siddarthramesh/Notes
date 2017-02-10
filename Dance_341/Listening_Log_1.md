@@ -1,59 +1,28 @@
 # Listening Log #1
 
-## Vocalise
-
-> Played on a theremin by Clara Rockmore
->
-> Pages 9-10
->
-> [YouTube Link](https://www.youtube.com/watch?v=WPZQi2m7i9Y)
-
-## Philomel
-
-> Played on RCA Mark II by Milton Babbitt
->
-> Page 17
->
-> [YouTube Link](https://www.youtube.com/watch?v=6Rd5_9hyWm0)
->
-> [How it was developed](https://www.youtube.com/watch?v=rgN_VzEIZ1I)
-
-# Cinq etudes de bruits Part 1 and 5
-
-> By Pierre Schaeffer
->
-> Pages 26-28, 31-35
->
-> [YouTube Link](https://www.youtube.com/watch?v=UQ7BZlV_0zQ)
-
-## Fantasy in Space
-
-> By Otto Luening
->
-> Pages 44-46
->
-> [YouTube Link](https://www.youtube.com/watch?v=_7R0BNdFUKo)
-
-## Poeme Electronique
-
-> By Edgard Varere 
->
-> Pages 58-62
->
-> [YouTube](https://www.youtube.com/watch?v=R-R3F3ZVbi8)
-
-## Gesang der Junglinge
-
-> By Karlheinz Stockhausen
->
-> Pages 37-42
->
-> [YouTube](https://www.youtube.com/watch?v=nffOJXcJCDg)
-
-## Dripsody 
-
-> By Hugh Le Caine
->
-> Pages 13-14
->
-> [YouTube](https://www.youtube.com/watch?v=zvHSvSBwFYM)
+* **Vocalise**, Sergei Rachmaninoff
+	* Vocalise is played on the Theremin accompanied by a piano. The theremin is a musical phenomenon in itself for being an instrument that is played without physically touching it. It works by using the electromagnetic waves from one's’ hands. With that, it also allows amazing precision of control, so much precision that it is a talent to be able to control the easily varying sound it produces. The natural wavelength of your body's electromagnetic wave causes a rather higher pitched sound which is just high enough before it would become unbearable to listen to. I rather enjoy the oscillating nature of the theremin and feel it gives the sound character. 
+	* The accompanying of the piano in Vocalise does a great job playing the secondary role and letting the theremin shine through. Being able to smoothly ascend and descend volume lets it show emphasis on the parts it wants to. This style of music closely resembles opera music by the ability to oscillate the tone and adjust volume gracefully. With such a unique range of sounds the composer did a great job matching it to the piano and producing a sound that is enjoyable to listen too.
+* **Philomel**,  Milton Babbitt
+	* Philomel is played on the RCA Mark II which essentially is a computer turned into musical instrument. Taking punch cards to turn binary input into sound that we can listen to is quite a tedious task, to say the least. Babbitt didn’t have any luxury of someone creating libraries or other methods to abstract the way of playing it. This lead to him having to create everything from scratch, even things such as oscillation, which lead to an extremely difficult method of playing music that is enjoyable to listen too.
+	* The piece itself is a combination of a woman singing in a choppy tone accompanied by choppy sounds of the machine. It does its best to match up the atone sounds with the atone style of the women singing. My biggest complaint is how piercing the piece is and hard to listen to without turning the volume down. I only have the ability to listen to this music with headphones and the piercing nature of it is quite unbearable to withstand. I feel I had a hard time really examining the song itself because it had the same effect of someone scratching their nails on a chalkboard.
+* **Cinq etudes de bruits**, Pierre Schaeffer
+	* Cinq etudes de bruits is a first of its kind in terms of music. It was created by Pierre Schaeffer, a radio engineer, who realized he could manipulate tape and take sounds from everyday sources and splice it all into one master track. This fundamental idea of taking sounds from nature and everyday life was the start of musique concrète. He made sure each of his five part etudes resolved around a theme where he took sound samples from a particular area of life. With no other music of this kind during his time, he had to be very creative in coming up how to remix the sounds to achieve an unique and enjoyable sound. This is something we take for granted now because of the saturation of remixed songs we hear today.
+	* **Part 1 - de aux chemins de fer**
+		* Part 1 of Cinq etudes de bruits is resolved around trains. While on a train on his way to the station, he realized the amount of various sounds in the environment and decided to make it the first of his etudes. Sticking to theme he tries to emulate the overall sound and dynamics of a train. This involves the way a train oscillates its rhythm in a “over the hump” timber manner. The piece as a whole also simulates starting from a complete stop, picking up steam, and even has the whistle sound. It was very enjoyable to listen to as he did a great job merging the sounds in a way where you could tell the different stages of a train and also that it was a train to begin without without any context. The only small detail is the rough transitions from different sound sources. I can imagine how revolutionary it was for someone to make a song with a bunch of small mashed up looped sections of sound.
+	* **Part 5 - Étude pathétique**
+		* Part 5 of Cinq etudes de bruits revolves around sauce pans, canal boats, singing, speech, harmonica, and a piano. The piece has a lot of similarities to Part 1 in terms of the style the music is cut and spliced together. The rhythm almost keeps the beat of the train sound, but verges off into its own, more choppier style. I assume the similarities come from him having to discover all the different effects he could do himself with little to no previous guidance. Taking a clip and repeating the first part of it and looping it was a huge theme. I also noticed how he never kept it consistent as sometimes it looped twice, others five times. This at first listen gives it a feeling of being more choppy, but it really isn’t. I am not sure what they are saying in french, but I enjoy the way the voices repeat quickly as it gave a cool effect of taking natural voices as a sound sample.
+* **Fantasy in Space**, Otto Luening
+	* Fantasy in Space was created by Otto Luening, a Wisconsin native! It was created with a few other songs in a two week period where Luening and his accomplice, Vladimir Ussachevsky, got together and gathered the resources necessary at the time to record it all. It was not cheap and easy to gather all the materials so they decided to allocate two weeks to creating music. Fantasy in Space, along with others, were popular enough to get Lening and Ussachevsky a spot NBC television for an interview.
+	* The song itself is a creation of Luening playing his flute and using a reverberation box to help turn the flute into a new sound not common at all in the time. This a beautiful sounding piece as the flute itself is already an established pleasant sound. The song feels very natural with having real recording instead of purly generated sound. The reverbing in the background does a good job giving substance to the whole piece and allows there to be sound filling the space the whole time. I am not sure if these sounds would match well with other instrument, but in this case they merge very well with each other.
+* **Piece for Tape Recorder**, Vladimir Ussachevsky
+	* Piece for Tape Recorder was created by Vladimir Ussachevsky while in the two week music collaboration session with Otto Luening. This piece used a piano and a few other sounds in conjunction with a reverberation box. The whole piece revolves around using the reverberation box with every sound. All the different sound samples seems to have the reverb effect playing. The song mainly contains a series of background style reverbed sounds which are then accompanied by sudden additions of various sound. This piece has the notion it was more of an experiment to see what different sounds with reverb would sound like. I personally was not a huge fan of the “empty” timbre it had. There were also times it sounded like the “hang up tone” a phone makes which I found unpleasant. Unlike Luening piece, Ussachevsky didn’t really aim to merge the reverb background sound with any other sustaining sound. This lack of filling sound makes it more of a piece to be used in the background for another piece. 
+* **Poeme Electronique**, Edgard Varere 
+	* Poeme Electronique was created by Edgard Varere, a French composer who coined the term "organized sound". Varere’s goal was to create and work in the field of sound rather than making “musical” pieces. He was more interested in how sound worked as a natural occuring effect. His music emphasizes timbre and rhythm.
+	* This becomes very clear in Poeme Electronique as it is full of scattered sounds blended together. All done with tape, this piece involves many different sounds and effects all in one. The overall piece is very quiet with many gaps of silence between sound samples. One thing I enjoyed was how well the transition to all these different sounds merged seamlessly. There are no relationship to these sounds but yet he manages to find a way to go from one to another is a subtle and enjoyable way. There is not much action to this piece and it has a very “quiet and empty” timbre to it. The part with the voices had a strange vibe to it as it didn’t match the best with the other sounds due to the nature of how the human voice breaks the “all generate sound” aspect. 
+* **Gesang der Junglinge**, Karlheinz Stockhausen
+	* Gesang der Junglinge was created by Karlheinze Stockhausen who was born and raised in Germany and worked out of the University of Cologne. Stockhausen was very interested in sin-wave generated music. This means taking a sound with a single frequency band and manipulating it from there. This form of sound is not one found alone in nature by itself, but is part of all sounds collectively.
+	* The piece starts out really slow with a lot of gap for silence in it until it picks up towards the end being filled with tons of generated sound. I am still rusty on my German, but the small clips of voice I am pretty sure are modulated with sin-waves as they have a very “unnatural” tone to them. The sound of sin-wave is very present as there is no harmonic occurring due to lack of resonance in any of the noise generated. This gives it a very electric feeling aspect which is then matched well with the distorted voices overlaying it. I am in general impressed as it is not easy to take plain sin generated wave tones and turn it into something pleasant to listen to.
+* **Dripsody**, Hugh Le Caine
+	* Dripsody was created by Canadian physicist Hugh Le Caine. He was very interested in building his own instruments and experimenting with different sounds he could produce with them. Dripsody was a revolutionary piece of work as he created the piece with the sound of a single sample of a drop of water. Using that single drop of water, he established a keyboard like range of alternation so he could create different tones with them easier.
+	* Due to the short lived sound of a drop of water, all of looping was of a very short section of sound. This proposes a challenge as the whole song has to be made up of very short notes and nothing drawn out. He did a very good job blending it together so it didn’t sound choppy from the short sound clips. During the middle part of the piece, using multiple loops, he creates an ostinato effect with the sound. Hearing this shows just how impressive he was in his creativity for that single sound sample. His combination of different manipulated sounds would make it near impossible to realize it was the same single sound sample without previous knowledge. The sound of the drop is very pleasant to begin with and he keeps that timbre of it by making sure any overlay of sounds matched up well with each other.
