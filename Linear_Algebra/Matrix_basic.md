@@ -42,3 +42,17 @@
   * A<sup>0</sup> == I
   * AA<sup>-1</sup> == A<sup>-1</sup>A == I
   * **[ A | I ]**  ==  **[ I | A<sup>-1</sup>]** 
+  * If Ax = B then x = A<sup>-1</sup>B 
+  
+# Special types of Matrix
+* **Symmetric**
+  * A<sup>T</sup> = A   
+* **Skew Symmetric**  
+  * A<sup>T</sup> = -A
+* **Nonsingular (invertible)**
+  * Square matrix only n<sub>x</sub>n
+  * There is a B<sub>NxN</sub> where AB = BA = I
+  * B is the **inverse**
+    * A must be NxN as well
+* **Singular (noninvertible)**
+  * Same as nonsingular but there is no B that exists 
