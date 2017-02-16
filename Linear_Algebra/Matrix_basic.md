@@ -1,3 +1,4 @@
+Symbol key at [bottom](#symbol-key)
 # Transpose
  ```
  [ 1 2 ]         [ 1 3 5 ]
@@ -25,8 +26,10 @@
   * C(A + B) == CA + CB
   * A<sup>p</sup>A<sup>q</sup> == A<sup>p + q</sup>
   * (A<sup>p</sup>)<sup>q</sup> == A<sup>pq</sup>
-  * (AB)<sup>p</sup> **!=** A<sup>p</sup>B<sup>p</sup>
+  * (AB)<sup>p</sup> == (AB)<sup>1</sup>...(AB)<sup>p-1</sup>(AB)<sup>p</sup> **!=** A<sup>p</sup>B<sup>p</sup>
     * unless AB == BA
+  * (AB == 0) !=><sup>+</sup> (A = 0 || B = 0) =><sup>+</sup> (AB == 0)
+  * (AB == AC) !=><sup>+</sup> (A = 0 || B = C) =><sup>+</sup> (AB == AC)
 * **Scalar**
   * r(sA) == (rs)A
   * (r + s)A == rA + sA
@@ -35,12 +38,14 @@
 * **Transpose**
   * (A<sup>T</sup>)<sup>T</sup> == A
   * (A + B)<sup>T</sup> == A<sup>T</sup> + B<sup>T</sup>
-  * (AB)<sup>T</sup> == B<sup>T</sup>A<sup>T</sup>
+  * (AB)<sup>T</sup> == B<sup>T</sup>A<sup>T</sup> **!=** A<sup>T</sup>B<sup>T</sup>
   * (rA)<sup>T</sup> == rA<sup>T</sup>
+  * (A<sup>T</sup>)<sub>ij</sub> == A<sub>ji</sub>
 * **Identity**
   * AI == A == IA
   * A<sup>0</sup> == I
   * AA<sup>-1</sup> == A<sup>-1</sup>A == I
+  * (A<sup>T</sup>)<sup>-1</sup> == (A<sup>-1</sup>)<sup>T</sup>
   * **[ A | I ]**  ==  **[ I | A<sup>-1</sup>]** 
   * If Ax = B then x = A<sup>-1</sup>B 
   
@@ -56,3 +61,8 @@
     * A must be NxN as well
 * **Singular (noninvertible)**
   * Same as nonsingular but there is no B that exists 
+
+## Symbol Key
+* `==` equals
+* `=><sup>+</sup>` "derives"
+* `!=><sup>+</sup>` "NOT derives"
