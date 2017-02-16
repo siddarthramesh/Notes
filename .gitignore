@@ -1,3 +1,6 @@
 #Linear_algebra lecture images
 Linear_Algebra/Lecture_images/*.jpg
 Linear_Algebra/Lecture_images/*.jpeg
+
+#Emacs pains
+*~
