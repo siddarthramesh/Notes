@@ -13,7 +13,7 @@ Symbol key at [bottom](#symbol-key)
  [ g h i ]   [ 3 ]    [ g*3 h*3 i*3 ]
 
    m x n     n x p         m x p
-   3 x 3     3 x 1         3 x 3
+   3 x 3     3 x 1         3 x 1
  ```
  
 # Matrix Properties
